@@ -1,0 +1,22 @@
+body{
+    margin-top: 50px;
+}
+h6{
+    color: gray;
+}
+p{
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+}
+#flex-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 12.5%;
+}
+#div-p{
+    padding-left: 25%;
+    padding-right: 25%;
+}
